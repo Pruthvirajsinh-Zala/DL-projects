@@ -8,4 +8,4 @@
 2) MNIST Digit Classification
 - Neural Networks
 - Tensorflow
-- Keras
+- Confusion Metrix

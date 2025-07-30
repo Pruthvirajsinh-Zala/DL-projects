@@ -10,3 +10,4 @@
 - Tensorflow
 - Confusion Metrix
 - Seaborn
+- cv2

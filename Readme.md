@@ -13,3 +13,4 @@
 - cv2
 
 3) Dog vs Cat Classification
+- PIL

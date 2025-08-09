@@ -14,3 +14,6 @@
 
 3) Dog vs Cat Classification
 - PIL
+- Tensorflow
+- Tensorflow Hub
+- MobileNetV2 Model

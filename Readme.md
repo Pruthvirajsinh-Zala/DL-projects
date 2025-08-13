@@ -17,3 +17,6 @@
 - Tensorflow
 - Tensorflow Hub
 - MobileNetV2 Model
+
+4) CIFAR-10 Object Detection
+- Keras

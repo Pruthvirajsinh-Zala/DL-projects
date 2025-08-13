@@ -20,3 +20,5 @@
 
 4) CIFAR-10 Object Detection
 - Keras
+- ResNet50
+- Matplotlib

@@ -22,3 +22,8 @@
 - Keras
 - ResNet50
 - Matplotlib
+
+5) Face Mask Detection
+- Keras
+- Matplotlib
+- CNN
